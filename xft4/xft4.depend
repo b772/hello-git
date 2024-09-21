@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1726842115 source:c:\users\boing\desktop\工作文件\c++\t\xft4\main.cpp
+	<iostream>
+	<cstring>
+	<algorithm>
+
